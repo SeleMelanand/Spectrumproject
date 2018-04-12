@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21164" started-at="2018-04-11T05:39:50Z" finished-at="2018-04-11T05:40:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21164" started-at="2018-04-11T05:39:50Z" finished-at="2018-04-11T05:40:11Z">
+      <class name="com.parallelexecution.Testcase001">
+        <test-method status="PASS" signature="htmlreportgenerator()[pri:0, instance:com.parallelexecution.Testcase001@5649fd9b]" name="htmlreportgenerator" is-config="true" duration-ms="622" started-at="2018-04-10T22:39:50Z" finished-at="2018-04-10T22:39:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- htmlreportgenerator -->
+        <test-method status="PASS" signature="testcasedata()[pri:0, instance:com.parallelexecution.Testcase001@5649fd9b]" name="testcasedata" is-config="true" duration-ms="1" started-at="2018-04-10T22:39:50Z" finished-at="2018-04-10T22:39:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasedata -->
+        <test-method status="PASS" signature="chromebrowser()[pri:0, instance:com.parallelexecution.Testcase001@5649fd9b]" name="chromebrowser" is-config="true" duration-ms="4659" started-at="2018-04-10T22:39:50Z" finished-at="2018-04-10T22:39:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromebrowser -->
+        <test-method status="PASS" signature="redbus()[pri:0, instance:com.parallelexecution.Testcase001@5649fd9b]" name="redbus" duration-ms="14699" started-at="2018-04-10T22:39:55Z" finished-at="2018-04-10T22:40:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- redbus -->
+        <test-method status="PASS" signature="teststep()[pri:0, instance:com.parallelexecution.Testcase001@5649fd9b]" name="teststep" is-config="true" duration-ms="1165" started-at="2018-04-10T22:40:10Z" finished-at="2018-04-10T22:40:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teststep -->
+        <test-method status="PASS" signature="browserclose()[pri:0, instance:com.parallelexecution.Testcase001@5649fd9b]" name="browserclose" is-config="true" duration-ms="665" started-at="2018-04-10T22:40:11Z" finished-at="2018-04-10T22:40:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+      </class> <!-- com.parallelexecution.Testcase001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
